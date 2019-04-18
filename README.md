@@ -6,7 +6,7 @@ A simple Bash shell for Ubuntu 16.04 built for an operating systems class. This 
 * Displays command history on SIGINT signal and using 'history' command
 * Launches processes for valid commands while rejecting invalid ones
 * Ignores empty inputs, bypassing command storage
-* Implements custom 'exit', 'pwd', 'cd', and 'type' commands
+* Implements custom `exit`, `pwd`, `cd`, and `type` commands
 
 ## How to Use
 
